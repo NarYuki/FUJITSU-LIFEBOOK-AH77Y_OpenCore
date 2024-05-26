@@ -15,6 +15,7 @@ This is an example of OpenCore EFI for **LIFEBOOK AH77/Y**
 - ✅ : Works
 - ✖ : Not Works
 - 🤔 : unstable
+## 
 
 - ✅Boots, sleeps and wakes
 - ✅iGPU - Intel HD 530 with full QE/CI
@@ -29,5 +30,6 @@ This is an example of OpenCore EFI for **LIFEBOOK AH77/Y**
 - ✅Audio is working with latest AppleALC installed
 - ✅Continuity Camera works only over USB (that's known to happen also on real Macs)
 - ✅iCloud Service with FindMy,AirDrop,Handoff,AirPlay and Sidecar is working
+##
 
 - 🤔Display - display flickers after returning from sleep
