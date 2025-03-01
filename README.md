@@ -17,7 +17,7 @@ This is an example of OpenCore EFI for **LIFEBOOK AH77/Y**
 - 🤔 : unstable
 ## 
 
-- ✅Boots, sleeps, and wakes properly
+- ✅ACPI - sleeps, and wakes properly
 - ✅iGPU - Intel HD 530 with full QE/CI support
 - ✅Wi-Fi - working with the latest AirportItlwm
 - ✅Bluetooth - works with Low Energy accessories
