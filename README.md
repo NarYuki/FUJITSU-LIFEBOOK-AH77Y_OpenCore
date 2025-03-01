@@ -30,7 +30,6 @@ This is an example of OpenCore EFI for **LIFEBOOK AH77/Y**
 - ✅Audio is working with the latest AppleALC installed
 - ✅Continuity Camera works only over USB (this is known to happen even on real Macs)
 - ✅iCloud services, including Find My, AirDrop, Handoff, AirPlay, and Sidecar, are working
-- ✅Touch Panel - can be used after installing the UPDD driver.
-##
+- ✅Touch Panel - can be used after installing the [UPDD driver](https://www.touch-base.com/drivers).
 
 - 🤔Display - display flickers after returning from sleep
