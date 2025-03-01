@@ -17,20 +17,20 @@ This is an example of OpenCore EFI for **LIFEBOOK AH77/Y**
 - 🤔 : unstable
 ## 
 
-- ✅Boots, sleeps and wakes
-- ✅iGPU - Intel HD 530 with full QE/CI
-- ✅Wi-Fi - using latest AirportItlwm
-- ✅Bluetooth - working with Low Energy accessories
-- ✅SDCard Reader - Read&Write
-- ✅Synaptics Touchpad - click and gesture as perfect working
-- ✅Function keys (F6 & F7 for brightness, F8 & F9 for volume, )
-- ✅Battery Status - can fetch maximum capacity
-- ✅Power management
-- ✅SATA SSD/HDD
-- ✅Audio is working with latest AppleALC installed
-- ✅Continuity Camera works only over USB (that's known to happen also on real Macs)
-- ✅iCloud Service with FindMy,AirDrop,Handoff,AirPlay and Sidecar is working
-- ✅TouchPanel - can be used after installing the [UPDD driver](https://www.touch-base.com/drivers).
+- ✅Boots, sleeps, and wakes properly
+- ✅iGPU - Intel HD 530 with full QE/CI support
+- ✅Wi-Fi - working with the latest AirportItlwm
+- ✅Bluetooth - works with Low Energy accessories
+- ✅SD Card Reader - Read & Write supported
+- ✅Synaptics Touchpad - fully functional with clicks and gestures
+- ✅Function keys (F6 & F7 for brightness, F8 & F9 for volume) work correctly
+- ✅Battery Status - able to fetch maximum capacity
+- ✅Power management is working properly
+- ✅SATA SSD/HDD support
+- ✅Audio is working with the latest AppleALC installed
+- ✅Continuity Camera works only over USB (this is known to happen even on real Macs)
+- ✅iCloud services, including Find My, AirDrop, Handoff, AirPlay, and Sidecar, are working
+- ✅Touch Panel - can be used after installing the UPDD driver.
 ##
 
 - 🤔Display - display flickers after returning from sleep
